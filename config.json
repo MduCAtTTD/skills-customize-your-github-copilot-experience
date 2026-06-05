@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sorting-and-searching",
+      "title": "Sorting and Searching Algorithms",
+      "description": "Implement bubble sort and binary search from scratch, then compare their performance against Python built-ins.",
+      "path": "assignments/sorting-and-searching",
+      "dueDate": "2026-06-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
